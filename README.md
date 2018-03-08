@@ -24,6 +24,7 @@ Right-click the PDF and select `PDF Nano` service on the context menu, and just 
 ## Notes
 
 * The magic may come slowly if the PDF is large. For example, it may take 40s to compress a PDF from 40MB to 2MB. Yeah, I know it’s a bit slow.
+* Maybe not just a bit.
 * File stream is not supported yet.
 
 ## License

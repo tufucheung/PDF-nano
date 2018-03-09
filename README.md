@@ -1,5 +1,7 @@
 # PDF Nano
 
+[DMG Version here][1]
+
 PDF Nano could dramatically reduce the size of PDF, while keeping the images and texts clear enough for screen readers.
 
 Actually, PDF Nano is an Automator workflow, therefore it works on macOS only, as a service on the context menu.
@@ -8,10 +10,10 @@ Actually, PDF Nano is an Automator workflow, therefore it works on macOS only, a
 
 You will need Ghostscript, a famous interpreter for the PostScript language and for PDF.
 
-To install [Ghostscript][1], you can:
-*  follow [the official guide][2]
-*  or use [Homebrew][3]:`brew install ghostscript `
-*  or download and open [this install package][4]
+To install [Ghostscript][2], you can:
+*  follow [the official guide][3]
+*  or use [Homebrew][4]:`brew install ghostscript `
+*  or download and open [this install package][5]
 
 ## Install PDF Nano
 
@@ -31,7 +33,8 @@ Right-click the PDF and select `PDF Nano` service on the context menu, and just 
 
 MIT
 
-[1]:	https://ghostscript.com/index.html
-[2]:	https://ghostscript.com/doc/8.54/Install.htm
-[3]:	https://brew.sh/
-[4]:	http://pages.uoregon.edu/koch/
+[1]:	http://ovdx9zp24.bkt.clouddn.com/PDF%20Nano.dmg
+[2]:	https://ghostscript.com/index.html
+[3]:	https://ghostscript.com/doc/8.54/Install.htm
+[4]:	https://brew.sh/
+[5]:	http://pages.uoregon.edu/koch/

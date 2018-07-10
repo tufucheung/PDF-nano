@@ -35,6 +35,6 @@ MIT
 
 [1]:	http://ovdx9zp24.bkt.clouddn.com/PDF%20Nano.dmg
 [2]:	https://ghostscript.com/index.html
-[3]:	https://ghostscript.com/doc/8.54/Install.htm
+[3]:	https://ghostscript.com/doc/9.23/Install.htm#Install_Unix
 [4]:	https://brew.sh/
 [5]:	http://pages.uoregon.edu/koch/
